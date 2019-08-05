@@ -1,4 +1,3 @@
-1.Play this game and win
-2.Control with the mouse
-________________________
-##Enjoy!
+# Pizza Panic
+Enjoy the game!
+Control with mouse & Get all the pizzas;
